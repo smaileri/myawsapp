@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "myawsapp203a78f7": {}
+      },
+      "api": {
+        "myawsapp": {}
       }
     }
   }
