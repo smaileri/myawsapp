@@ -10,6 +10,7 @@ import {
   TextField,
   View,
   withAuthenticator,
+  Image,
 } from "@aws-amplify/ui-react";
 import { listNotes } from "./graphql/queries";
 import {
