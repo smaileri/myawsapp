@@ -1,0 +1,14 @@
+{
+  "resourceName": "imagesformyapp",
+  "policyUUID": "d33bec97",
+  "bucketName": "imagesformyapp",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
